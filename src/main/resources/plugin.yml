@@ -1,4 +1,0 @@
-name: UpdateChecker
-version: '1.0'
-main: me.croabeast.update.UpdateChecker
-api-version: '1.18'
